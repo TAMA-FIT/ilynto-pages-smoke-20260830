@@ -1,0 +1,9 @@
+{
+  "schema_version": 2,
+  "project_slug": "ilynto-pages-smoke-20260830",
+  "display_name": "ILYNTO Pages Smoke Test",
+  "goal": "Verify end-to-end GitHub Pages publishing through the ILYNTO provider adapter.",
+  "created_at": "2026-08-29T21:48:31.204Z",
+  "registry_authority": "local",
+  "memory_mode": "central_project_memory"
+}
